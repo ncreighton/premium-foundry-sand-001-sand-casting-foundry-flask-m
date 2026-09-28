@@ -1,0 +1,2 @@
+# premium-foundry-sand-001-sand-casting-foundry-flask-m
+Tired of losing track of your best sand mixture ratios or forgetting which flask dimensions you used for that perfect cast? Stop sifting through scattered notes and start pouring with precision.  The Sand Casting Foundry &amp; Flask Mold Craft Hub is the first Notion template built specifically for the sand casting workflow. It replaces sticky notes, s
